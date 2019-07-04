@@ -1,0 +1,38 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://www.kashew.net
+title: Kashew, LLC
+email: patrick.smith@kashew.net
+author: Patrick Smith
+description: > # "Write an awesome description for your new site here. 
+  Kashew's mission is to iteratively and collaboratively make better problems.  We 
+  understand that existing opportunities rarely have a silver bullet solution.  But 
+  by working together, trying new things, and learning from our attempts, we can at 
+  least ensure that we are are on the right path and always getting better.
+copyright: 'Copyright &copy; 2019 Kashew, LLC. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    icon: twitter
+    url: https://twitter.com/KashewNet
+  - title: github
+    icon: github
+    url: https://github.com/kashew
+  - title: email
+    icon: envelope
+    url: mailto:patrick.smith@kashew.net

@@ -1,0 +1,10 @@
+---
+layout: default
+img: nhd-ga-logo.png
+category: Services
+title: National History Day Georgia Mobile App
+description: |
+---
+  Kashew is excited about releasing the first ever mobile app for National History Day (NHD) Georgia! 
+  Our goal with this application is to better help students participating in NHD GA to access the 
+  resources they need to be successful at competing with other students across the nation.

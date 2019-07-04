@@ -1,0 +1,11 @@
+---
+layout: default
+img: better.png
+category: Services
+title: Iteratively and Collaboratively Better
+description: |
+---
+  Kashew's mission is to iteratively and collaboratively make better problems. We understand 
+  that existing opportunities rarely have a silver bullet solution. But by working together, 
+  trying new things, and learning from our attempts, we can at least ensure that we are are 
+  on the right path and always getting better.
